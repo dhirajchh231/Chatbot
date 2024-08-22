@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Simple Chat Bot with Java/task/build/
+/Simple Chat Bot with Java/task/out/
+/Simple Chat Bot with Java/task/out/production/classes/
+/Topics/Characters/Find the next Unicode character/out/
+/Topics/Characters/Find the next Unicode character/out/production/classes/
+/Topics/Floating-point types/Exponential expression/out/
+/Topics/Floating-point types/Exponential expression/out/production/classes/
+/Topics/String/Check burgs/out/
+/Topics/String/Check burgs/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
