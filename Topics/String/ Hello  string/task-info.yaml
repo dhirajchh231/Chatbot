@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: String str = s"Hello";
   - text: String str = new String("Hello");
-  - text: String str = "Hel" + "l" + 'o';
+  - text: String str = s"Hello";
   - text: String str = 'Hello';
+  - text: String str = "Hel" + "l" + 'o';
   - text: String str = "Hello";
 files:
   - name: src/Task.java

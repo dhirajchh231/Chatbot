@@ -2,3 +2,5 @@ content:
   - Characters
   - String
   - Floating-point types
+  - "Basic literals  numbers, strings and characters"
+  - Type casting

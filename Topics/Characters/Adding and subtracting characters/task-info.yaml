@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: f
   - text: e
-  - text: None of these
   - text: g
+  - text: f
+  - text: None of these
 files:
   - name: src/Task.java
     visible: true

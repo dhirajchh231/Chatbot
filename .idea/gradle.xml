@@ -18,6 +18,10 @@
             <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results" />
             <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/A literal for an address" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Incorrect literal" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Save the day" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Theory" />
             <option value="$PROJECT_DIR$/Topics/Characters/Adding and subtracting characters" />
             <option value="$PROJECT_DIR$/Topics/Characters/Encoding table" />
             <option value="$PROJECT_DIR$/Topics/Characters/Find the next Unicode character" />
@@ -48,6 +52,13 @@
             <option value="$PROJECT_DIR$/Topics/String/Finding string expressions" />
             <option value="$PROJECT_DIR$/Topics/String/Fixing code to display a character from a string" />
             <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/A condition" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Possible implicit castings" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Where explicit casting is required" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Widening casting" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

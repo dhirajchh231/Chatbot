@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: int q = 'q';
+  - text: char ch2 = q;
+  - text: short s = 1;
+  - text: char ch3 = s;
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2699#comment
+status: Solved
+record: -1
+local_check: false

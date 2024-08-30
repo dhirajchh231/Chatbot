@@ -5,10 +5,10 @@ captions:
   - str.charAt(12)
   - str.get(0)
 options:
+  - An exception occurs.
   - a
   - This code cannot be compiled.
   - t
-  - An exception occurs.
 files:
   - name: src/Task.java
     visible: true

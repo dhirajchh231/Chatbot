@@ -3,8 +3,8 @@ is_multiple_choice: false
 options:
   - text: Unicode (UTF-16)
   - text: Extended ASCII
-  - text: EBCDIC
   - text: ASCII
+  - text: EBCDIC
 files:
   - name: src/Task.java
     visible: true

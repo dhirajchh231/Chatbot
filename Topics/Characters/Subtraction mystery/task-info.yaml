@@ -1,9 +1,9 @@
 type: choice
 is_multiple_choice: false
 options:
+  - text: '''p'''
   - text: 112
   - text: '''P'''
-  - text: '''p'''
   - text: Nothing because there is a compile error
 files:
   - name: src/Task.java

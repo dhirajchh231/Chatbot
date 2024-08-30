@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: getChars(...)
-  - text: getAt(...)
   - text: charAt(...)
+  - text: getAt(...)
   - text: getCharAt(...)
+  - text: getChars(...)
 files:
   - name: src/Task.java
     visible: true

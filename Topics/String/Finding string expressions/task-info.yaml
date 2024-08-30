@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
+  - text: '"555" + 123'
   - text: '''0'''
-  - text: '"ab" + "cd"'
   - text: 1234
   - text: '"11"'
-  - text: '"555" + 123'
+  - text: '"ab" + "cd"'
 files:
   - name: src/Task.java
     visible: true
